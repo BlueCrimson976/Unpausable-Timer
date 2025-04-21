@@ -19,3 +19,10 @@
 _Thank you for downloading Unpausable Timer , I'm a Physics Student , I made this while I was procrastinating , took me two whole days to build this from scratch and researching how to build such application using python._ 
 
 _Happy Learning and Studying!_ 
+
+## Preview 
+
+![Screenshot 2025-04-21 074615](https://github.com/user-attachments/assets/0ceb2d01-affe-429e-bf87-47689b6f05ae)
+
+![Screenshot 2025-04-21 075927](https://github.com/user-attachments/assets/b3b92199-fe38-4d30-ba1f-54bf206eed2e)
+

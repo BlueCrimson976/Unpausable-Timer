@@ -34,5 +34,9 @@ _Happy Learning and Studying!_
 
   This is how your desktop should look like.
 
+#### If you are in windows 11 you, can customize UnpausableTimer by changing the terminal settings in windows according to your taste : 
+
+![image](https://github.com/user-attachments/assets/773ceffa-8b01-4840-af5c-bcb77c8afda8)
+
 
 

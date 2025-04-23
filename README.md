@@ -10,7 +10,8 @@
 
 #### Developed by : BlueCrimson976 (github)
 #### Github : https://github.com/BlueCrimson976
-#### Release Date : 20 th April 2025
+#### Release Date(Stable RAW VERSION) : 20 th April 2025 [unpausable_timer.exe]
+#### Release Date(Stable SHARP VERSION ) : 23 th April 2025 (tentitatively)
 
 ## Author's Insights 
 

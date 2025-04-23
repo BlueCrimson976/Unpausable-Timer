@@ -11,7 +11,7 @@
 #### Developed by : BlueCrimson976 (github)
 #### Github : https://github.com/BlueCrimson976
 #### Release Date(Stable RAW VERSION) : 20 th April 2025 [unpausable_timer.exe]
-#### Release Date(Stable SHARP VERSION ) : 23 th April 2025 (tentitatively)
+#### Release Date(Stable SHARP VERSION ) : 23 th April 2025 [unpausable_timer2.exe]
 
 ## Author's Insights 
 
@@ -40,4 +40,30 @@ _Happy Learning and Studying!_
 ![image](https://github.com/user-attachments/assets/773ceffa-8b01-4840-af5c-bcb77c8afda8)
 
 
+# New Release : Sharp Version 
+
+![Screenshot 2025-04-23 221135](https://github.com/user-attachments/assets/a4cd888c-5db6-45ec-acc7-a581850b7b1b)
+
+![image](https://github.com/user-attachments/assets/d5f560fc-d201-4e72-8c08-43b48fabfc76)
+
+***Colour Coded Version of UT1***
+
+**You can download any one of the two .exe files , according to which ever flavour you need!**
+
+## Only Precausion: 
+Is you need to resize your terminal slowly to avoid this : 
+
+![image](https://github.com/user-attachments/assets/0f3a1f4f-40a2-4e19-94b9-d6d14a391e5a)
+
+
+
+Which is the most common problem in terminal interfaces itself like , Command line in Windows , Power Shell etc.
+
+![image](https://github.com/user-attachments/assets/e8d4ea35-0d46-4583-80a8-621836f0276c)
+
+***The above picture is of a powershell executing the same problem.***
+
+
+
+**Solution** : Resize your window **slowly** don't move your mouse too fast.
 
